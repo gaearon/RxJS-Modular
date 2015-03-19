@@ -98,7 +98,7 @@ disposable.dispose();
 Using [npm](http://npmjs.org):
 
 ```bash
-npm rx.serialdisposable
+npm install rx.serialdisposable
 ```
 
 ## License ##

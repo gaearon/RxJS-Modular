@@ -80,7 +80,7 @@ s.dispose();
 Using [npm](http://npmjs.org):
 
 ```bash
-npm rx.disposable
+npm install rx.disposable
 ```
 
 ## License ##

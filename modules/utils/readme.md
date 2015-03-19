@@ -73,7 +73,7 @@ throwError(new Error('woops'))
 Using [npm](http://npmjs.org):
 
 ```bash
-npm rx-noop
+npm install rx-noop
 ```
 
 ## License ##

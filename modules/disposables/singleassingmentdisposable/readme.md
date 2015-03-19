@@ -129,7 +129,7 @@ disposable.dispose();
 Using [npm](http://npmjs.org):
 
 ```bash
-npm rx.singleassignmentdisposable
+npm install rx.singleassignmentdisposable
 ```
 
 ## License ##
